@@ -2,11 +2,7 @@ import java.util.*;
 public class RandomNum { // The new version of a game I made
 // Zarik Khan
 
-    public static int Cpu(TreeSet <Integer> min, TreeSet<Integer> Max, int guess, int compnum){
-
-        return 2;
-    }
-
+    
     public static int Game(int a, int b, ArrayList<Integer> c){
 
        if(a==b){
